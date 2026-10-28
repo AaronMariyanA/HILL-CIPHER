@@ -4,8 +4,8 @@
 
 # IMPLEMENTATION OF HILL CIPHER
 
-# Name: Gowtham S
-# Reg No: 212224100018
+# Name: Aaron Mariyan A
+# Reg No: 212224040004
 # AIM
 ## To write a C program to implement the hill cipher substitution techniques.
 
@@ -113,7 +113,7 @@ return 0;
 }
 ```
 ## OUTPUT
-<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/c336c0c5-7273-40c8-8752-5b2a621da2c7" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/c336c0c5-7273-40c8-8752-5b2a621da2c7h" />
 
 ## RESULT
 Thus the python program to implement the hill cipher substitution techniques is completed and successfully executed
