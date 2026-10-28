@@ -113,7 +113,8 @@ return 0;
 }
 ```
 ## OUTPUT
-<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/c336c0c5-7273-40c8-8752-5b2a621da2c7h" />
+<img width="527" height="331" alt="Screenshot 2026-10-28 at 2 00 07 PM" src="https://github.com/user-attachments/assets/90fa3ee4-479a-4b32-aff8-e550fc417e01" />
+
 
 ## RESULT
 Thus the python program to implement the hill cipher substitution techniques is completed and successfully executed
